@@ -1,0 +1,6 @@
+﻿metrik,sebelum,sesudah
+Jumlah baris,5000,5000
+Jumlah kolom,12,12
+Baris duplikat,0,0
+Total missing value,1638,0
+Outlier berdasarkan batas IQR awal,59,0

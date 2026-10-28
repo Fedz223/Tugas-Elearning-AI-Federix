@@ -1,0 +1,13 @@
+﻿nama_kolom,tipe_data,deskripsi,jumlah_missing
+customer_id,string,Identitas unik pelanggan; tidak digunakan sebagai fitur model.,0
+lama_berlangganan_bulan,float64,Lama pelanggan berlangganan dalam bulan.,0
+jenis_kontrak,object,"Jenis kontrak pelanggan: Bulanan, Tahunan, atau Dua Tahun.",0
+tagihan_bulanan_idr,float64,Nilai tagihan bulanan dalam rupiah.,0
+total_tagihan_idr,float64,Akumulasi tagihan pelanggan dalam rupiah.,0
+layanan_internet,string,Kategori layanan internet pelanggan.,0
+jumlah_layanan_aktif,float64,Jumlah layanan aktif yang digunakan pelanggan.,0
+dukungan_teknis,string,Status penggunaan dukungan teknis.,0
+jumlah_komplain,float64,Jumlah komplain pelanggan.,0
+hari_sejak_interaksi_terakhir,float64,Jumlah hari sejak interaksi terakhir dengan pelanggan.,0
+metode_pembayaran,string,Metode pembayaran yang digunakan pelanggan.,0
+status_pelanggan,string,Target analisis: Aktif atau Churn.,0
